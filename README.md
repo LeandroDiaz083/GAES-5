@@ -1,6 +1,6 @@
-## Descripción del Proyecto
+## Descripción del Proyecto de la aplicacion
 La **Task Manager App** es una aplicación web diseñada para ayudar a los usuarios a gestionar sus tareas diarias de manera eficiente. Permite a los usuarios crear, editar y eliminar tareas, así como establecer recordatorios y prioridades, todo desde una interfaz intuitiva y fácil de usar.
-## Objetivos
+## Objetivos generales
 - **Objetivo 1**: Permitir a los usuarios crear, editar y eliminar tareas de forma sencilla.
 - **Objetivo 2**: Implementar un sistema de recordatorios que notifique a los usuarios sobre tareas próximas.
 - **Objetivo 3**: Proporcionar filtros y categorías para organizar las tareas según prioridades y estados.
